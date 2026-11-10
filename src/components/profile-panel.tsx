@@ -102,23 +102,42 @@ export function ProfilePanel() {
       </div>
 
       <ToggleSection title="Education" defaultOpen>
-        <p className="font-semibold text-[var(--ink)]">
-          {profile.education.school}
-        </p>
-        <p className="mt-1 text-sm text-[var(--ink-soft)]">
-          {profile.education.degree}
-          <br />
-          {profile.education.field}
-        </p>
-        <p className="mt-3 text-sm text-[var(--ink)]">
-          Expected {profile.education.expected} · GPA {profile.education.gpa}
-        </p>
-        <p className="mt-1 text-sm text-[var(--brand-violet)]">
-          {profile.education.scholarship}
-        </p>
-        <p className="mt-1 text-xs text-[var(--ink-soft)]">
-          {profile.education.period}
-        </p>
+        <div className="space-y-5">
+          {profile.education.map((edu) => (
+            <div key={`${edu.school}-${edu.level}`}>
+              <p className="text-[11px] font-semibold tracking-[0.16em] text-[var(--ink-soft)] uppercase">
+                {edu.level}
+              </p>
+              <p className="mt-1 font-semibold text-[var(--ink)]">
+                {edu.school}
+              </p>
+              <p className="mt-1 text-sm text-[var(--ink-soft)]">
+                {"degree" in edu && edu.degree ? (
+                  <>
+                    {edu.degree}
+                    <br />
+                  </>
+                ) : null}
+                {edu.field}
+              </p>
+              <p className="mt-2 text-sm text-[var(--ink)]">
+                {"expected" in edu && edu.expected
+                  ? `Expected ${edu.expected}`
+                  : null}
+                {"expected" in edu && edu.expected && "gpa" in edu && edu.gpa
+                  ? " · "
+                  : null}
+                {"gpa" in edu && edu.gpa ? `GPA ${edu.gpa}` : null}
+              </p>
+              {"scholarship" in edu && edu.scholarship ? (
+                <p className="mt-1 text-sm text-[var(--brand-violet)]">
+                  {edu.scholarship}
+                </p>
+              ) : null}
+              <p className="mt-1 text-xs text-[var(--ink-soft)]">{edu.period}</p>
+            </div>
+          ))}
+        </div>
       </ToggleSection>
 
       <ToggleSection title="Software skills">

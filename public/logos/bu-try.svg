@@ -1,0 +1,621 @@
+<script>
+            console.error('Code:', 404);
+    </script>
+
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    
+        <title>มหาวิทยาลัยกรุงเทพ</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bangkok University : มหาวิทยาลัยกรุงเทพ">
+    <meta name="keywords" content="BU,มอกรุงเทพ,มหาวิทยาลัยกรุงเทพ,Bangkok Univeristy">
+    <meta name="author" content="Bangkok University">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://www.bu.ac.th/th/themes/custom/bu/logo.svg">
+            <link rel="alternate" hreflang="th-TH" href="https://www.bu.ac.th/th/themes/custom/bu/logo.svg">
+        <link rel="alternate" hreflang="en" href="https://www.bu.ac.th/en/themes/custom/bu/logo.svg">
+        <link rel="alternate" hreflang="x-default" href="https://www.bu.ac.th/th/themes/custom/bu/logo.svg">
+        <link rel="preconnect" href="https://contents.bu.ac.th">
+    <link rel="dns-prefetch" href="https://contents.bu.ac.th">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://connect.facebook.net">
+
+    
+    <meta property="og:title" content="มหาวิทยาลัยกรุงเทพ" />
+    <meta property="og:description" content="Bangkok University : มหาวิทยาลัยกรุงเทพ" />
+    <meta property="og:type" content="company" />
+    <meta property="og:url" content="https://www.bu.ac.th/th/themes/custom/bu/logo.svg" />
+    <meta property="og:site_name" content="มหาวิทยาลัยกรุงเทพ" />
+    <meta property="og:image" content="https://contents.bu.ac.th/contents/dist/images/default.jpg" />
+        <meta property="fb:admins" content="kittikomx">
+    <meta property="fb:app_id" content="132880665271">
+    
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Bangkok_BU" />
+    <meta name="twitter:title" content="มหาวิทยาลัยกรุงเทพ" />
+    <meta name="twitter:description" content="Bangkok University : มหาวิทยาลัยกรุงเทพ" />
+    <meta name="twitter:creator" content="@Bangkok_BU" />
+    <meta name="twitter:image" content="https://contents.bu.ac.th/contents/dist/images/default.jpg" />
+
+    <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "CollegeOrUniversity",
+    "name": "มหาวิทยาลัยกรุงเทพ",
+    "url": "https://www.bu.ac.th/th",
+    "image": "https://contents.bu.ac.th/contents/dist/images/default.jpg",
+    "logo": "https://contents.bu.ac.th/contents/dist/images/default.jpg",
+    "description": "BU เป็นมหาวิทยาลัยเอกชนอันดับ 1 ของไทย จากการจัดอันดับ QS World University Rankings: Asia 2026 ในกลุ่มมหาวิทยาลัยเอกชนขนาดใหญ่ โดย QS ประเมินจากหลายด้านแบบองค์รวม ทั้งด้านชื่อเสียงทางวิชาการ ชื่อเสียงจากนายจ้าง ความเป็นนานาชาติ เครือข่ายวิจัย คุณภาพงานวิจัย และคุณภาพคณาจารย์",
+    "telephone": "+66-2-407-3888",
+    "email": "info@bu.ac.th",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+66-2-407-3888",
+        "email": "info@bu.ac.th"
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "9/1 หมู่ 5 ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12120",
+        "addressLocality": "คลองหลวง",
+        "addressRegion": "ปทุมธานี",
+        "postalCode": "12120",
+        "addressCountry": "TH"
+    },
+    "sameAs": [
+        "https://www.facebook.com/bangkokuniversity",
+        "https://www.facebook.com/BU.International",
+        "https://www.instagram.com/bangkok_bu",
+        "https://www.youtube.com/@BangkokUniversity",
+        "https://www.linkedin.com/school/bangkokuniversity"
+    ]
+}</script>
+        
+    
+
+    
+    <link rel="preload" as="style" href="https://www.bu.ac.th/build/assets/tailwind-BQsfm_qk.css" /><link rel="stylesheet" href="https://www.bu.ac.th/build/assets/tailwind-BQsfm_qk.css" />            <link rel="preload" as="style" href="https://www.bu.ac.th/build/assets/app-D_wawOYA.css" /><link rel="stylesheet" href="https://www.bu.ac.th/build/assets/app-D_wawOYA.css" />        <link rel="preload" as="style" href="https://www.bu.ac.th/build/assets/_index-D0gPSjVu.css" /><link rel="stylesheet" href="https://www.bu.ac.th/build/assets/_index-D0gPSjVu.css" />    
+    <link rel="icon" type="image/x-icon" href="https://contents.bu.ac.th/contents/dist/images/favicon.ico">
+
+            <link rel="preload" as="style" href="https://www.bu.ac.th/build/assets/home-BTvSq7oV.css" /><link rel="stylesheet" href="https://www.bu.ac.th/build/assets/home-BTvSq7oV.css" />    <script type="text/javascript">
+        const isLoadHubspot = true;
+    </script>
+</head>
+
+<body class="tw:bg-base-200 tw:overflow-x-hidden">
+                <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55BQLLV8"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    <div class="tw:fixed tw:top-0 tw:left-0 tw:right-0 tw:z-[1030]">
+<nav data-global-navigation
+    class="tw:relative tw:bg-black/60 tw:backdrop-blur-[30px]">
+    
+    <div
+        class="tw:absolute tw:left-0 tw:top-0 tw:bottom-0 tw:z-0 tw:bg-base-1100 tw:w-10 tw:min-[1156px]:w-[calc((100vw-1156px+44px)/2)]">
+    </div>
+
+    
+    <div
+        class="tw:relative tw:z-[1] tw:w-full tw:max-w-[1196px] tw:mx-auto tw:px-5 tw:flex tw:items-center tw:justify-between">
+        
+        <a href="https://www.bu.ac.th/th"
+            class="tw:relative tw:flex tw:items-center tw:bg-base-1100 tw:py-3 tw:pr-4 tw:md:pr-5">
+            <img class="tw:hidden tw:md:block tw:h-9 tw:w-auto"
+                src="https://contents.bu.ac.th/contents/dist/images/bu_logo.svg"
+                alt="Bangkok University Logo"
+                loading="lazy">
+            <img class="tw:block tw:md:hidden tw:h-8 tw:w-auto"
+                src="https://contents.bu.ac.th/contents/dist/images/bu_icon_logo.svg"
+                alt="Bangkok University Logo"
+                loading="lazy">
+        </a>
+
+        
+        <div class="tw:flex tw:items-center tw:gap-2 tw:lg:gap-4">
+            
+            <div class="tw:hidden tw:lg:flex tw:items-center tw:gap-4">
+                                    <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+                        href="https://www.bu.ac.th/th/course-faculty/bachelor">หลักสูตร</a>
+                                    <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+                        href="https://www.bu.ac.th/th/campus-life">รอบรั้ว ม.กรุงเทพ</a>
+                                    <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+                        href="https://www.bu.ac.th/th/featured-stories">ข่าวสาร</a>
+                                    <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+                        href="https://www.bu.ac.th/th/about">เกี่ยวกับมหาวิทยาลัย</a>
+                            </div>
+
+            
+            <button type="button"
+                data-nav-menu-open
+                aria-label="navbar button"
+                class="tw:flex tw:lg:hidden tw:items-center tw:justify-center tw:h-[30px] tw:p-1 tw:text-[22px] tw:text-base-1100 tw:bg-transparent tw:rounded-full tw:cursor-pointer tw:hover:bg-base-1100/12">
+                <i class="bu-ic bu-ic-hamberger"></i>
+            </button>
+
+            
+            <button type="button"
+                data-search-toggle
+                aria-label="search button"
+                class="tw:flex tw:items-center tw:justify-center tw:w-10 tw:h-[30px] tw:bg-transparent tw:text-base-1100 tw:cursor-pointer tw:hover:text-base-900">
+                <img src="https://contents.bu.ac.th/contents/dist/icons/magnify.svg"
+                    alt="Magnify Glass Icon"
+                    class="tw:w-5 tw:h-5">
+            </button>
+
+            
+            <div class="tw:relative">
+                <button type="button"
+                    data-lang-toggle
+                    aria-expanded="false"
+                    class="tw:flex tw:items-center tw:min-w-[35px] tw:px-[9px] tw:py-[7.5px] tw:text-[12px] tw:font-bold tw:text-base-1100 tw:bg-[#383a3d] tw:rounded-md tw:cursor-pointer">
+                    <img class="tw:hidden tw:md:block tw:w-[25px] tw:rounded-sm tw:mr-2 tw:object-cover"
+                        src="https://contents.bu.ac.th/contents/dist/images/flag_th.webp"
+                        alt="TH flag"
+                        loading="lazy">
+                    <span>TH</span>
+                </button>
+                <ul data-lang-menu
+                    class="tw:hidden tw:absolute tw:top-full tw:left-0 tw:mt-0 tw:min-w-full tw:bg-white tw:rounded-b-md tw:overflow-hidden tw:shadow-lg tw:list-none tw:p-0 tw:m-0 tw:z-[1031]">
+                                            <li>
+                            <a class="tw:flex tw:items-center tw:px-[9px] tw:py-[7.5px] tw:text-[12px] tw:font-bold tw:text-gray-800 tw:no-underline tw:hover:bg-gray-100"
+                                href="https://www.bu.ac.th/th/themes/custom/bu/logo.svg?langCode=en">
+                                <img class="tw:hidden tw:md:block tw:w-[25px] tw:rounded-sm tw:mr-2 tw:object-cover"
+                                    src="https://contents.bu.ac.th/contents/dist/images/flag_en.webp"
+                                    alt="EN flag"
+                                    loading="lazy">
+                                EN
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+
+            
+            <div class="btn-apply-now tw:cursor-pointer">
+                <div>
+    <a data-diamond-button
+        class="tw:relative tw:cursor-pointer tw:select-none tw:no-underline tw:text-center tw:font-heading tw:font-bold tw:text-base-200 tw:px-[29.5px] tw:bg-base-1000 tw:hover:bg-base-800 tw:bg-[linear-gradient(0deg,hsl(0_0%_90%)_0%,hsl(0_0%_80%)_5%,hsl(0_0%_80%)_15%,hsl(0_0%_100%)_40%,hsl(0_0%_100%)_90%)] tw:bg-size-[200%_300%] tw:bg-right-bottom tw:[transform:translate(0px)] tw:[transition:background-color_0.3s,color_0.3s] tw:after:content-[''] tw:after:pointer-events-none tw:after:absolute tw:after:inset-0 tw:after:rounded-[inherit] tw:after:shadow-[0_0_14px_rgb(255_255_255)] tw:after:animate-diamond-glow tw:motion-reduce:after:hidden tw:motion-reduce:shadow-[inset_0_0_2px_hsl(0_0%_20%)] tw:inline-block tw:py-[5px] tw:text-base tw:leading-[20.4px] tw:rounded-[22px] tw:hover:[transition:all_0.2s_cubic-bezier(0.17,0.84,0.44,1)] tw:active:[transition-duration:0.1s] tw:active:[transform:translateY(0.075em)] tw:before:content-[''] tw:before:pointer-events-none tw:before:absolute tw:before:z-2 tw:before:top-[-78px] tw:before:right-[-49px] tw:before:w-[174px] tw:before:h-[174px] tw:before:bg-[url(https://contents.bu.ac.th/contents/dist/images/flare_btn_diamond.svg)] tw:before:bg-contain tw:before:bg-center tw:before:bg-no-repeat tw:before:animate-diamond-flare tw:motion-reduce:before:hidden tw:active:before:brightness-300 tw:active:before:contrast-75 tw:active:before:[animation-duration:8s] tw:max-[992px]:px-4 tw:max-[992px]:text-[15px]"
+        role="button"
+        href="https://admissiononline.bu.ac.th/Start"
+        target="_blank">
+        
+        <div
+            class="tw:pointer-events-none tw:absolute tw:inset-0 tw:overflow-hidden tw:rounded-[10rem] tw:before:content-[''] tw:before:block tw:before:absolute tw:before:top-[-23px] tw:before:left-[-36px] tw:before:w-[45px] tw:before:h-full tw:before:bg-white tw:before:z-20 tw:before:animate-diamond-reflect tw:motion-reduce:before:hidden">
+        </div>
+                    <div class="tw:absolute tw:inset-0 tw:w-full tw:h-full tw:overflow-hidden tw:rounded-[999rem]">
+                <img src="https://contents.bu.ac.th/contents/dist/images/bg_btn_diamond.svg" alt="diamond"
+                    class="tw:relative tw:inset-0 tw:object-cover tw:w-[115%] tw:h-full">
+            </div>
+        
+        <span
+            class="tw:relative tw:z-10 tw:font-bold tw:text-black tw:[transform:translateY(0)] tw:[transition-duration:inherit] tw:[transition-timing-function:inherit] tw:[filter:drop-shadow(0_0_0.05em_rgba(255,255,255,0.5))_drop-shadow(0_0.05em_0.05em_rgba(255,255,255,0.5))]">
+            สมัครเรียน
+        </span>
+    </a>
+</div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<div class="tw:absolute tw:top-full tw:left-0 tw:right-0">
+    <div class="tw:relative tw:max-w-[1196px] tw:mx-auto tw:px-5">
+        <div data-search-panel
+            class="tw:hidden tw:absolute tw:top-0 tw:left-1/2 tw:right-0 tw:mt-2 tw:w-auto tw:lg:left-auto tw:lg:top-(--search-top) tw:lg:right-(--search-right) tw:lg:w-[260px] tw:z-[1031]">
+            <div class="tw:flex tw:bg-white tw:rounded tw:overflow-hidden tw:shadow-lg">
+                <input type="text"
+                    data-search-input
+                    placeholder="search"
+                    class="tw:flex-1 tw:min-w-0 tw:px-3 tw:py-2 tw:text-sm tw:text-base-100 tw:outline-none">
+                <button type="button"
+                    data-search-submit
+                    aria-label="search submit"
+                    class="tw:flex tw:items-center tw:justify-center tw:px-3 tw:bg-primary-orange-500 tw:cursor-pointer tw:hover:bg-primary-orange-400">
+                    
+                    <img src="https://contents.bu.ac.th/contents/dist/icons/magnify.svg"
+                        alt="Magnify Glass Icon"
+                        class="tw:w-5 tw:h-5 tw:brightness-0 tw:invert">
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<div data-mobile-menu
+    class="tw:hidden tw:fixed tw:inset-0 tw:z-[1040] tw:flex-col tw:bg-black/60 tw:backdrop-blur-[30px] tw:overflow-y-auto">
+    <div class="tw:flex tw:items-center tw:justify-between tw:px-5 tw:py-3">
+        <img class="tw:h-8 tw:w-auto"
+            src="https://contents.bu.ac.th/contents/dist/images/bu_icon_logo.svg"
+            alt="Bangkok University Logo"
+            loading="lazy">
+        <button type="button"
+            data-mobile-menu-close
+            aria-label="Close"
+            class="tw:flex tw:items-center tw:justify-center tw:w-10 tw:h-10 tw:bg-transparent tw:text-base-1100 tw:cursor-pointer">
+            <i class="bu-ic bu-ic-close"></i>
+        </button>
+    </div>
+    <div class="tw:px-5 tw:pb-6">
+        <div class="tw:flex tw:flex-col tw:divide-y tw:divide-base-1100/10">
+                            <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800 tw:block tw:py-4 tw:-mx-3 tw:px-3 tw:rounded-xl tw:hover:bg-base-1100/8"
+                    href="https://www.bu.ac.th/th/course-faculty/bachelor">หลักสูตร</a>
+                            <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800 tw:block tw:py-4 tw:-mx-3 tw:px-3 tw:rounded-xl tw:hover:bg-base-1100/8"
+                    href="https://www.bu.ac.th/th/campus-life">รอบรั้ว ม.กรุงเทพ</a>
+                            <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800 tw:block tw:py-4 tw:-mx-3 tw:px-3 tw:rounded-xl tw:hover:bg-base-1100/8"
+                    href="https://www.bu.ac.th/th/featured-stories">ข่าวสาร</a>
+                            <a class="tw:whitespace-nowrap tw:text-[16px] tw:leading-[21.6px] tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800 tw:block tw:py-4 tw:-mx-3 tw:px-3 tw:rounded-xl tw:hover:bg-base-1100/8"
+                    href="https://www.bu.ac.th/th/about">เกี่ยวกับมหาวิทยาลัย</a>
+                    </div>
+        <div class="tw:text-center tw:py-6">
+            <div class="btn-apply-now tw:inline-block tw:cursor-pointer">
+                <div>
+    <a data-diamond-button
+        class="tw:relative tw:cursor-pointer tw:select-none tw:no-underline tw:text-center tw:font-heading tw:font-bold tw:text-base-200 tw:px-[29.5px] tw:bg-base-1000 tw:hover:bg-base-800 tw:bg-[linear-gradient(0deg,hsl(0_0%_90%)_0%,hsl(0_0%_80%)_5%,hsl(0_0%_80%)_15%,hsl(0_0%_100%)_40%,hsl(0_0%_100%)_90%)] tw:bg-size-[200%_300%] tw:bg-right-bottom tw:[transform:translate(0px)] tw:[transition:background-color_0.3s,color_0.3s] tw:after:content-[''] tw:after:pointer-events-none tw:after:absolute tw:after:inset-0 tw:after:rounded-[inherit] tw:after:shadow-[0_0_14px_rgb(255_255_255)] tw:after:animate-diamond-glow tw:motion-reduce:after:hidden tw:motion-reduce:shadow-[inset_0_0_2px_hsl(0_0%_20%)] tw:inline-block tw:py-[5px] tw:text-base tw:leading-[20.4px] tw:rounded-[22px] tw:hover:[transition:all_0.2s_cubic-bezier(0.17,0.84,0.44,1)] tw:active:[transition-duration:0.1s] tw:active:[transform:translateY(0.075em)] tw:before:content-[''] tw:before:pointer-events-none tw:before:absolute tw:before:z-2 tw:before:top-[-78px] tw:before:right-[-49px] tw:before:w-[174px] tw:before:h-[174px] tw:before:bg-[url(https://contents.bu.ac.th/contents/dist/images/flare_btn_diamond.svg)] tw:before:bg-contain tw:before:bg-center tw:before:bg-no-repeat tw:before:animate-diamond-flare tw:motion-reduce:before:hidden tw:active:before:brightness-300 tw:active:before:contrast-75 tw:active:before:[animation-duration:8s] "
+        role="button"
+        href="https://admissiononline.bu.ac.th/Start"
+        target="_blank">
+        
+        <div
+            class="tw:pointer-events-none tw:absolute tw:inset-0 tw:overflow-hidden tw:rounded-[10rem] tw:before:content-[''] tw:before:block tw:before:absolute tw:before:top-[-23px] tw:before:left-[-36px] tw:before:w-[45px] tw:before:h-full tw:before:bg-white tw:before:z-20 tw:before:animate-diamond-reflect tw:motion-reduce:before:hidden">
+        </div>
+                    <div class="tw:absolute tw:inset-0 tw:w-full tw:h-full tw:overflow-hidden tw:rounded-[999rem]">
+                <img src="https://contents.bu.ac.th/contents/dist/images/bg_btn_diamond.svg" alt="diamond"
+                    class="tw:relative tw:inset-0 tw:object-cover tw:w-[115%] tw:h-full">
+            </div>
+        
+        <span
+            class="tw:relative tw:z-10 tw:font-bold tw:text-black tw:[transform:translateY(0)] tw:[transition-duration:inherit] tw:[transition-timing-function:inherit] tw:[filter:drop-shadow(0_0_0.05em_rgba(255,255,255,0.5))_drop-shadow(0_0.05em_0.05em_rgba(255,255,255,0.5))]">
+            สมัครเรียน
+        </span>
+    </a>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <main class="page-content">
+            <div style="margin: 6rem 0; margin-bottom: 2.5rem;">
+        <div class="container d-flex flex-column justify-content-center margin-bottom: 3.5rem;"
+            style="color: white; min-height: 60dvh;">
+            <div class="title"
+                style="display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;">
+                <h1 style="font-size: 8rem; font-weight: 700; line-height: 0.8;">
+                    404
+                </h1>
+                <hr style="width: 100%;">
+            </div>
+            <div class="text-center mt-3">
+                <h2>
+                    ไม่พบหน้าที่คุณค้นหา                </h2>
+                <h5 class="mb-4" style="font-weight: 400; color: #999;">
+                    ไม่พบหน้าที่คุณค้นหา กรุณาตรวจสอบ URL หรือกลับไปที่หน้าหลัก                </h5>
+                <div class="row justify-content-center error-page">
+                    <div class="col-12 col-md-auto mt-1">
+                        <a role="button" href="https://www.bu.ac.th/th" target="_self"
+    class="btn btn-candy">
+    <div role="button">
+        <div class="btn-title">
+            กลับไปหน้าหลัก
+        </div>
+    </div>
+</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </main>
+
+    <footer class="tw:bg-base-300">
+    <div class="tw:w-full tw:max-w-[1196px] tw:mx-auto tw:px-5">
+                    <div class="tw:pt-5">
+                <div class="tw:pb-4 tw:border-b tw:border-base-400 tw:text-[12px] tw:lg:text-sm">
+    <div class="tw:flex tw:flex-wrap tw:items-center tw:gap-x-[6px] tw:gap-y-[3px]">
+        <a class="tw:no-underline tw:text-base-900 tw:hover:text-base-800 tw:focus:text-base-700"
+            href="https://www.bu.ac.th/th">
+            หน้าหลัก        </a>
+                                <i class="bu-ic bu-ic-arrow-right tw:text-base-600"></i>
+            <a class="tw:no-underline tw:text-base-900 tw:hover:text-base-800 tw:focus:text-base-700"
+                href="https://www.bu.ac.th/th/themes">
+                page_name.themes_page
+            </a>
+                                <i class="bu-ic bu-ic-arrow-right tw:text-base-600"></i>
+            <a class="tw:no-underline tw:text-base-900 tw:hover:text-base-800 tw:focus:text-base-700"
+                href="https://www.bu.ac.th/th/themes/custom">
+                page_name.themes.custom_page
+            </a>
+                                <i class="bu-ic bu-ic-arrow-right tw:text-base-600"></i>
+            <a class="tw:no-underline tw:text-base-900 tw:hover:text-base-800 tw:focus:text-base-700"
+                href="https://www.bu.ac.th/th/themes/custom/bu">
+                page_name.themes.custom.bu_page
+            </a>
+                                <i class="bu-ic bu-ic-arrow-right tw:text-base-600"></i>
+            <a class="tw:no-underline tw:text-base-1100 tw:pointer-events-none"
+                href="https://www.bu.ac.th/th/themes/custom/bu/logo.svg">
+                page_name.themes.custom.bu.logo.svg_page
+            </a>
+            </div>
+</div>
+            </div>
+        
+        
+        <div class="tw:border-b tw:border-base-400">
+            <div class="tw:grid tw:grid-cols-1 tw:lg:grid-cols-2 tw:gap-x-[60px]">
+                
+                <div>
+                    <div class="tw:py-5">
+                        <img class="tw:w-full tw:max-w-[242px]"
+                            src="https://contents.bu.ac.th/contents/dist/images/bu_logo_slogan.svg"
+                            alt="Bangkok University Logo"
+                            loading="lazy">
+                    </div>
+                </div>
+
+                
+                <div class="tw:pt-5 tw:pb-7 tw:border-t tw:border-base-400 tw:lg:border-t-0">
+                    <div class="tw:grid tw:grid-cols-1 tw:md:grid-cols-2 tw:lg:grid-cols-3 tw:gap-y-5">
+                        
+                        <div class="tw:flex tw:flex-col">
+                            <span class="tw:mt-4 tw:mb-[10px] tw:first:mt-0 tw:text-sm tw:font-bold tw:text-base-1100">
+                                <strong>ข้อมูลมหาวิทยาลัย</strong>
+                            </span>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/about">เกี่ยวกับ ม.กรุงเทพ</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/featured-stories">ข่าวสาร</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/calendar/bachelor-degree">ปฏิทินการศึกษา</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://admissiononline.bu.ac.th/Start">สมัครเรียน</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/tuition-fees/bachelor-degree">ค่าเล่าเรียน</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/scholarship">ทุนการศึกษา</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/bu-student/bachelor">นักศึกษาปัจจุบัน</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/faq/bachelor">คำถามที่พบบ่อย</a>
+                        </div>
+
+                        
+                        <div class="tw:relative tw:flex tw:flex-col">
+                            <span class="tw:mt-4 tw:mb-[10px] tw:first:mt-0 tw:text-sm tw:font-bold tw:text-base-1100"><strong>ติดต่อเรา</strong></span>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/contact">สอบถามข้อมูลเพิ่มเติม</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/contact?#map">แผนที่มหาวิทยาลัย</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/contact?#rent">ติดต่อเช่าสถานที่</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/contact?#visit">เยี่ยมชมมหาวิทยาลัย</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://hr.bu.ac.th/web/recruit/Default.aspx"
+                                target="_blank">ร่วมงานกับเรา</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                href="https://www.bu.ac.th/th/contact/representative"
+                                target="_blank">Representative</a>
+                            <div class="tw:hidden tw:md:block tw:absolute tw:left-0 tw:bottom-0 tw:w-max">
+                                <div class="tw:flex tw:items-center">
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.facebook.com/bangkokuniversity"
+        aria-label="Facebook"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-facebook"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.instagram.com/bangkok_bu/"
+        aria-label="Instagram"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-instagram"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.youtube.com/@BangkokUniversity/videos"
+        aria-label="Youtube"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-youtube"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.linkedin.com/school/bangkokuniversity/"
+        aria-label="Linkedin"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-linkedin"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://wa.me/66618230319"
+        aria-label="WhatsApp"
+        target="_blank"
+        rel="noopener">
+        <img src="https://contents.bu.ac.th/contents/dist/icons/icon-whatsapp.svg"
+            alt="WhatsApp"
+            class="tw:w-[1.65rem] tw:h-[1.65rem]">
+    </a>
+    <div data-overlay-open="#wechatModal"
+        class="tw:cursor-pointer tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800">
+        <img src="https://contents.bu.ac.th/contents/dist/icons/icon-wechat.webp"
+            alt="wechat"
+            class="tw:w-[1.65rem] tw:h-[1.65rem]">
+    </div>
+</div>
+                            </div>
+                        </div>
+
+                        
+                        <div class="tw:flex tw:flex-col">
+                            <span class="tw:mt-4 tw:mb-[10px] tw:first:mt-0 tw:text-sm tw:font-bold tw:text-base-1100"><strong>สำหรับนักศึกษา</strong></span>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                target="_blank"
+                                href="https://ursa.bu.ac.th/">BU URSA</a>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                target="_blank"
+                                href="https://bulinks.bu.ac.th/">BU Links</a>
+                            <span class="tw:mt-4 tw:mb-[10px] tw:first:mt-0 tw:text-sm tw:font-bold tw:text-base-1100"><strong>สำหรับบุคลากร</strong></span>
+                            <a class="tw:text-sm tw:no-underline tw:text-base-1100 tw:pb-[5px] tw:last:pb-0 tw:hover:text-base-900 tw:focus:text-base-800"
+                                target="_blank"
+                                href="http://mybu.bu.ac.th/">MyBU</a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="tw:py-2 tw:md:hidden">
+                    <div class="tw:flex tw:items-center">
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.facebook.com/bangkokuniversity"
+        aria-label="Facebook"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-facebook"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.instagram.com/bangkok_bu/"
+        aria-label="Instagram"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-instagram"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.youtube.com/@BangkokUniversity/videos"
+        aria-label="Youtube"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-youtube"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://www.linkedin.com/school/bangkokuniversity/"
+        aria-label="Linkedin"
+        target="_blank"
+        rel="noopener">
+        <i class="bu-ic bu-ic-linkedin"></i>
+    </a>
+    <a class="tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800"
+        href="https://wa.me/66618230319"
+        aria-label="WhatsApp"
+        target="_blank"
+        rel="noopener">
+        <img src="https://contents.bu.ac.th/contents/dist/icons/icon-whatsapp.svg"
+            alt="WhatsApp"
+            class="tw:w-[1.65rem] tw:h-[1.65rem]">
+    </a>
+    <div data-overlay-open="#wechatModal"
+        class="tw:cursor-pointer tw:flex tw:shrink-0 tw:text-[1.65rem] tw:mr-3 tw:text-base-1100 tw:no-underline tw:hover:text-base-900 tw:focus:text-base-800">
+        <img src="https://contents.bu.ac.th/contents/dist/icons/icon-wechat.webp"
+            alt="wechat"
+            class="tw:w-[1.65rem] tw:h-[1.65rem]">
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="tw:pt-5 tw:lg:pt-4 tw:pb-10">
+            <div class="tw:grid tw:grid-cols-1 tw:lg:grid-cols-2 tw:gap-x-[60px] tw:gap-y-2">
+                <div>
+                    <span class="tw:text-[12px] tw:text-base-700">Copyright © 2026 Bangkok University. All rights
+                        reserved.</span>
+
+                                    </div>
+                <div>
+                    <div class="tw:flex tw:flex-wrap tw:gap-x-3 tw:justify-start tw:md:justify-end">
+                        <a class="tw:text-[12px] tw:no-underline tw:text-base-700 tw:hover:text-base-600 tw:focus:text-base-500"
+                            href="https://www.bu.ac.th/th/privacy-policy">นโยบายความเป็นส่วนตัว</a>
+                        <a class="tw:text-[12px] tw:no-underline tw:text-base-700 tw:hover:text-base-600 tw:focus:text-base-500"
+                            href="https://www.bu.ac.th/th/cookies">เกี่ยวกับการใช้งานคุ้กกี้</a>
+                        <a class="tw:text-[12px] tw:no-underline tw:text-base-700 tw:hover:text-base-600 tw:focus:text-base-500"
+                            href="https://www.bu.ac.th/th/generalnotice">การคุ้มครองข้อมูลส่วนบุคคลกรณีทั่วไป</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <div class="facebook-chat-layout">
+    <a href="https://m.me/132880665271"
+        target="__blank">
+        
+        <div class="facebook-chat-button tw:fixed tw:bottom-2 tw:right-2 tw:z-[100000] tw:md:bottom-4 tw:md:right-4 tw:flex tw:items-center tw:justify-center tw:p-[0.8rem] tw:rounded-[3rem] tw:text-[2rem] tw:md:text-[2.5rem] tw:text-white tw:cursor-pointer tw:bg-[#0866ff]">
+            <img src="https://contents.bu.ac.th/contents/dist/icons/icon-facebook-messenger.svg"
+                alt="Facebook Messenger" class="tw:w-6 tw:h-6 tw:inline-block">
+        </div>
+    </a>
+</div>
+    <div id="videoModal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="วิดีโอ"
+    tabindex="-1"
+    hidden
+    data-overlay-display="tw:block"
+    class="tw:fixed tw:inset-0 tw:z-[1055] tw:hidden tw:overflow-x-hidden tw:overflow-y-auto tw:outline-0 tw:bg-black/50 tw:bg-[linear-gradient(180deg,#0f0f1099,#0f0f1000_27.6%_73.44%,#0f0f1099)] tw:backdrop-blur-[8px] tw:transition-opacity tw:duration-150 tw:ease-linear tw:starting:opacity-0">
+    <div class="tw:container">
+        <div class="tw:relative tw:pointer-events-none tw:m-2 tw:min-[576px]:mx-auto tw:min-[576px]:my-7 tw:min-[576px]:max-w-[800px] tw:transition-transform tw:duration-300 tw:ease-[ease-out] tw:starting:-translate-y-[50px] tw:pt-16">
+            <div class="tw:relative tw:flex tw:flex-col tw:w-full tw:pointer-events-auto ">
+                <div class="tw:aspect-video tw:relative" id="videoPlayer">
+    </div>
+    <button type="button"
+        data-overlay-close
+        aria-label="ปิด"
+        class="tw:absolute tw:top-[-46px] tw:right-[-12px] tw:p-2 tw:cursor-pointer tw:md:top-[-66px] tw:md:right-[-22px] tw:md:p-[18px]">
+        <i aria-hidden="true"
+            class="bu-ic bu-ic-close tw:text-[30px] tw:text-base-1100 tw:hover:text-base-800 tw:cursor-pointer"></i>
+    </button>
+            </div>
+        </div>
+    </div>
+</div>
+    
+            <div class="modal modal-tuition-fee fade"
+            id="tuitionFeeModal"
+            tabindex="-1"
+            aria-hidden="true">
+        </div>
+        
+    
+
+            <link rel="preload" as="style" href="https://www.bu.ac.th/build/assets/app-DLZKEe4X.css" /><link rel="modulepreload" as="script" href="https://www.bu.ac.th/build/assets/app-BC1K02Zh.js" /><link rel="modulepreload" as="script" href="https://www.bu.ac.th/build/assets/viemo-thumbnail-LsM6hu7Z.js" /><link rel="modulepreload" as="script" href="https://www.bu.ac.th/build/assets/select2-BmJrCQgV.js" /><link rel="modulepreload" as="script" href="https://www.bu.ac.th/build/assets/carousel-CGEsX_eK.js" /><link rel="stylesheet" href="https://www.bu.ac.th/build/assets/app-DLZKEe4X.css" /><script type="module" src="https://www.bu.ac.th/build/assets/app-BC1K02Zh.js"></script>                <link rel="modulepreload" as="script" href="https://www.bu.ac.th/build/assets/third-party-C-r-kTHE.js" /><script type="module" src="https://www.bu.ac.th/build/assets/third-party-C-r-kTHE.js"></script>    
+        <div id="wechatModal"
+    role="dialog"
+    aria-modal="true"
+    aria-label="WeChat"
+    tabindex="-1"
+    hidden
+    data-overlay-display="tw:block"
+    class="tw:fixed tw:inset-0 tw:z-[1055] tw:hidden tw:overflow-x-hidden tw:overflow-y-auto tw:outline-0 tw:bg-black/50 tw:bg-[linear-gradient(180deg,#0f0f1099,#0f0f1000_27.6%_73.44%,#0f0f1099)] tw:backdrop-blur-[8px] tw:transition-opacity tw:duration-150 tw:ease-linear tw:starting:opacity-0">
+    <div class="tw:container">
+        <div class="tw:relative tw:pointer-events-none tw:m-2 tw:min-[576px]:mx-auto tw:min-[576px]:my-7 tw:min-[576px]:max-w-[800px] tw:transition-transform tw:duration-300 tw:ease-[ease-out] tw:starting:-translate-y-[50px] ">
+            <div class="tw:relative tw:flex tw:flex-col tw:w-full tw:pointer-events-auto tw:bg-white">
+                <div class="tw:flex tw:justify-end tw:mr-4 tw:mt-2">
+            <button type="button"
+                class="tw:text-2xl tw:text-gray-500 tw:cursor-pointer"
+                data-overlay-close
+                aria-label="ปิด">
+                &times;
+            </button>
+        </div>
+        <img src="https://contents.bu.ac.th/contents/images/contact-page/wechat-qrcode.webp"
+            alt="wechat QR Code"
+            loading="lazy"
+            class="tw:w-full tw:h-auto tw:max-w-full tw:rounded-full">
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

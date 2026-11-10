@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Montserrat, Syne } from "next/font/google";
+import { Outfit, Syne } from "next/font/google";
 import "./globals.css";
 
-const montserrat = Montserrat({
+const outfit = Outfit({
   variable: "--font-sans",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
@@ -20,14 +20,20 @@ export const metadata: Metadata = {
     template: "%s · Carrot",
   },
   description:
-    "Portfolio of Pariyakorn Saelao (Carrot) — 3D character, mocap, UI, and interactive media.",
+    "Portfolio of Pariyakorn Saelao (Carrot) — Game Artist, UX/UI Designer, Graphic Design.",
+  // shared by link only — keep search engines from listing it
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: { index: false, follow: false },
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${montserrat.variable} ${syne.variable} h-full antialiased`}
+      className={`${outfit.variable} ${syne.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col font-sans text-foreground">
         {children}

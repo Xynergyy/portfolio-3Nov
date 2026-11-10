@@ -15,6 +15,7 @@ const accents: Record<ProjectCategory, string> = {
   "2d": "from-[#9b72cb] to-[#c49bff]",
   ui: "from-[#5b8def] to-[#d96570]",
   graphic: "from-[#d96570] to-[#f0a0a8]",
+  product: "from-[#38bdf8] to-[#2563eb]",
   other: "from-[#6b7cff] to-[#9b72cb]",
 };
 
