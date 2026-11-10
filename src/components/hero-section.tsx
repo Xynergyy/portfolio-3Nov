@@ -127,8 +127,8 @@ export function HeroSection() {
           <img
             src="/portrait.webp"
             alt={`Portrait of ${profile.fullName}`}
-            width={336}
-            height={428}
+            width={365}
+            height={486}
             draggable={false}
             className="relative mx-auto w-[86%] select-none [mask-image:linear-gradient(to_bottom,black_88%,transparent)]"
           />
